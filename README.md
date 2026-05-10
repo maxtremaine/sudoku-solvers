@@ -21,7 +21,7 @@ All implementations follow the same simple philosophy and use an identical human
 | Elixir       | TBD       | 🚧 In Progress  | [sudoku-solver-elixir](https://github.com/maxtremaine/sudoku-solver-elixir) |
 | Zig          | TBD       | 🚧 In Progress  | [sudoku-solver-zig](https://github.com/maxtremaine/sudoku-solver-zig) |
 
-**Note:** All times measured on the same machine using the puzzle in [`puzzles/evil-54-blanks.sudoku`](./puzzles/evil-54-blanks.sudoku).
+**Note:** All times measured on the same machine using the puzzle in [`puzzles/evil.sudoku`](./puzzles/evil.sudoku).
 
 ## Quick Start (Any Solver)
 
